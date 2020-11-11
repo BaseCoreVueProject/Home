@@ -19,9 +19,9 @@
 ### 排队情况（安排中，有删减可能）
 |序号|项目名称|文章地址|备注|
 |-|-|-|-|
-|01|https://github.com/BaseCoreVueProject/Blog.Core|延后||
-|02|https://github.com/BaseCoreVueProject/Destiny.Core.Flow|即将发布||
-|03|https://github.com/BaseCoreVueProject/Adnc|待发布||
+|01|https://github.com/BaseCoreVueProject/Blog.Core|即将发布||
+|02|https://github.com/BaseCoreVueProject/Destiny.Core.Flow|[文章地址](https://mp.weixin.qq.com/s/RSn9CUKn1P59wNn29Nravw)||
+|03|https://github.com/BaseCoreVueProject/Adnc|排队中||
 |04|https://github.com/BaseCoreVueProject/SimCaptcha|待发布||
 |05|https://github.com/BaseCoreVueProject/Remember.Core|待发布||
 |06|https://github.com/BaseCoreVueProject/Easy.Core.Flow|-|文档不太完整|
