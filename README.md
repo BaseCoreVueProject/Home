@@ -27,3 +27,4 @@
 |06|https://github.com/BaseCoreVueProject/Easy.Core.Flow|-|文档不太完整|
 |07|https://github.com/BaseCoreVueProject/PermissionVue|待发布||
 |08|https://github.com/BaseCoreVueProject/jwtdemo|-|需要完善文档|
+|09|https://github.com/BaseCoreVueProject/Zero.Core|待发布||
