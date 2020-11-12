@@ -24,7 +24,8 @@
 |03|https://github.com/BaseCoreVueProject/Adnc|排队中||
 |04|https://github.com/BaseCoreVueProject/SimCaptcha|待发布||
 |05|https://github.com/BaseCoreVueProject/Remember.Core|待发布||
-|06|https://github.com/BaseCoreVueProject/Easy.Core.Flow|-|文档不太完整|
-|07|https://github.com/BaseCoreVueProject/PermissionVue|待发布||
-|08|https://github.com/BaseCoreVueProject/jwtdemo|-|需要完善文档|
-|09|https://github.com/BaseCoreVueProject/Zero.Core|待发布||
+|06|https://github.com/BaseCoreVueProject/SnailAspNetCoreFramework|待发布||
+|07|https://github.com/BaseCoreVueProject/Easy.Core.Flow|-|文档不太完整|
+|08|https://github.com/BaseCoreVueProject/PermissionVue|待发布||
+|09|https://github.com/BaseCoreVueProject/jwtdemo|-|需要完善文档|
+|10|https://github.com/BaseCoreVueProject/Zero.Core|待发布||
