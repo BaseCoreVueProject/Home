@@ -17,16 +17,16 @@
 我会在公众号和博客园等，每期推荐一个项目，只要你的项目里有`README`，有`300+`字的介绍即可。 
 
 ### 排队情况（安排中，有删减可能）
-|序号|项目名称|文章地址|备注|
-|-|-|-|-|
-|01|https://github.com/BaseCoreVueProject/Blog.Core|[文章地址](https://mp.weixin.qq.com/s/lMlpsZPc-gy-MM8GEI2e5Q)|完成|
-|02|https://github.com/BaseCoreVueProject/Destiny.Core.Flow|[文章地址](https://mp.weixin.qq.com/s/RSn9CUKn1P59wNn29Nravw)|完成|
-|03|https://github.com/BaseCoreVueProject/Adnc|排队中||
-|04|https://github.com/BaseCoreVueProject/SimCaptcha|待发布||
-|05|https://github.com/BaseCoreVueProject/Remember.Core|待发布||
-|06|https://github.com/BaseCoreVueProject/SnailAspNetCoreFramework|待发布||
-|07|https://github.com/BaseCoreVueProject/Easy.Core.Flow|-|文档不太完整|
-|08|https://github.com/BaseCoreVueProject/PermissionVue|待发布||
-|09|https://github.com/BaseCoreVueProject/jwtdemo|-|需要完善文档|
-|10|https://github.com/BaseCoreVueProject/Zero.Core|待发布||
-|11|https://github.com/BaseCoreVueProject/LJS.Core|待发布|希望再美化下文档|
+|序号|项目名称|原作者|文章地址|备注|
+|-|-|-|-|-|
+|01|https://github.com/BaseCoreVueProject/Blog.Core|anjoy8|[文章地址](https://mp.weixin.qq.com/s/lMlpsZPc-gy-MM8GEI2e5Q)|完成|
+|02|https://github.com/BaseCoreVueProject/Destiny.Core.Flow|DestinyCore|[文章地址](https://mp.weixin.qq.com/s/RSn9CUKn1P59wNn29Nravw)|完成|
+|03|https://github.com/BaseCoreVueProject/Adnc|AlphaYu|排队中||
+|04|https://github.com/BaseCoreVueProject/Remember.Core|yiyungent|待发布||
+|05|https://github.com/BaseCoreVueProject/SimCaptcha|yiyungent|待发布||
+|06|https://github.com/BaseCoreVueProject/SnailAspNetCoreFramework|shengyu-kmust|待发布||
+|07|https://github.com/BaseCoreVueProject/Easy.Core.Flow|MrChuJiu|-|文档不太完整|
+|08|https://github.com/BaseCoreVueProject/PermissionVue|zt199510|待发布||
+|09|https://github.com/BaseCoreVueProject/jwtdemo|HuYiDaoKing|-|需要完善文档|
+|10|https://github.com/BaseCoreVueProject/Zero.Core|QQ2287991080|待发布||
+|11|https://github.com/BaseCoreVueProject/LJS.Core|Lenceas|待发布|希望再美化下文档|
