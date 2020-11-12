@@ -19,8 +19,8 @@
 ### 排队情况（安排中，有删减可能）
 |序号|项目名称|原作者|文章地址|备注|
 |-|-|-|-|-|
-|01|https://github.com/BaseCoreVueProject/Blog.Core|anjoy8|[文章地址](https://mp.weixin.qq.com/s/lMlpsZPc-gy-MM8GEI2e5Q)|完成|
-|02|https://github.com/BaseCoreVueProject/Destiny.Core.Flow|DestinyCore|[文章地址](https://mp.weixin.qq.com/s/RSn9CUKn1P59wNn29Nravw)|完成|
+|01|https://github.com/BaseCoreVueProject/Blog.Core|anjoy8|[文章](https://mp.weixin.qq.com/s/lMlpsZPc-gy-MM8GEI2e5Q)|完成|
+|02|https://github.com/BaseCoreVueProject/Destiny.Core.Flow|DestinyCore|[文章](https://mp.weixin.qq.com/s/RSn9CUKn1P59wNn29Nravw)|完成|
 |03|https://github.com/BaseCoreVueProject/Adnc|AlphaYu|排队中||
 |04|https://github.com/BaseCoreVueProject/Remember.Core|yiyungent|待发布||
 |05|https://github.com/BaseCoreVueProject/SimCaptcha|yiyungent|待发布||
