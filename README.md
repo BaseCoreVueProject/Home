@@ -29,4 +29,4 @@
 |08|https://github.com/BaseCoreVueProject/PermissionVue|待发布||
 |09|https://github.com/BaseCoreVueProject/jwtdemo|-|需要完善文档|
 |10|https://github.com/BaseCoreVueProject/Zero.Core|待发布||
-|11|https://github.com/Lenceas/LJS.Core|待发布|希望再美化下文档|
+|11|https://github.com/BaseCoreVueProject/LJS.Core|待发布|希望再美化下文档|
