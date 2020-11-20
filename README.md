@@ -21,8 +21,8 @@
 |-|-|-|-|-|
 |01|[/BaseCoreVueProject/Blog.Core](https://github.com/BaseCoreVueProject/Blog.Core)|anjoy8|[文章](https://mp.weixin.qq.com/s/lMlpsZPc-gy-MM8GEI2e5Q)|完成|
 |02|[/BaseCoreVueProject/Destiny.Core.Flow](https://github.com/BaseCoreVueProject/Destiny.Core.Flow)|DestinyCore|[文章](https://mp.weixin.qq.com/s/RSn9CUKn1P59wNn29Nravw)|完成|
-|03|[/BaseCoreVueProject/Adnc](https://github.com/BaseCoreVueProject/Adnc)|AlphaYu|排队中||
-|04|[/BaseCoreVueProject/Remember.Core](https://github.com/BaseCoreVueProject/Remember.Core)|yiyungent|待发布||
+|03|[/BaseCoreVueProject/Adnc](https://github.com/BaseCoreVueProject/Adnc)|AlphaYu|[文章](https://mp.weixin.qq.com/s/aeiwnF4xNROlE20oxD6bTA)|完成|
+|04|[/BaseCoreVueProject/Remember.Core](https://github.com/BaseCoreVueProject/Remember.Core)|yiyungent|排队中||
 |05|[/BaseCoreVueProject/SimCaptcha](https://github.com/BaseCoreVueProject/SimCaptcha)|yiyungent|待发布||
 |06|[/BaseCoreVueProject/SnailAspNetCoreFramework](https://github.com/BaseCoreVueProject/SnailAspNetCoreFramework)|shengyu-kmust|待发布||
 |07|[/BaseCoreVueProject/Easy.Core.Flow](https://github.com/BaseCoreVueProject/Easy.Core.Flow)|MrChuJiu|-|文档不太完整|
