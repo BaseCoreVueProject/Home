@@ -29,4 +29,5 @@
 |08|[/BaseCoreVueProject/PermissionVue](https://github.com/BaseCoreVueProject/PermissionVue)|zt199510|待发布||
 |09|[/BaseCoreVueProject/jwtdemo](https://github.com/BaseCoreVueProject/jwtdemo)|HuYiDaoKing|-|需要完善文档|
 |10|[/BaseCoreVueProject/Zero.Core](https://github.com/BaseCoreVueProject/Zero.Core)|QQ2287991080|待发布||
-|11|[/BaseCoreVueProject/LJS.Core](https://github.com/BaseCoreVueProject/LJS.Core)|Lenceas|待发布|希望再美化下文档|
+|11|[/BaseCoreVueProject/InitQ ](https://github.com/BaseCoreVueProject/InitQ)|wmowm|待发布||
+|12|[/BaseCoreVueProject/LJS.Core](https://github.com/BaseCoreVueProject/LJS.Core)|Lenceas|待发布|希望再美化下文档|
