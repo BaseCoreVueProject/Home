@@ -22,12 +22,13 @@
 |01|[/BaseCoreVueProject/Blog.Core](https://github.com/BaseCoreVueProject/Blog.Core)|anjoy8|[文章](https://mp.weixin.qq.com/s/lMlpsZPc-gy-MM8GEI2e5Q)|完成|
 |02|[/BaseCoreVueProject/Destiny.Core.Flow](https://github.com/BaseCoreVueProject/Destiny.Core.Flow)|DestinyCore|[文章](https://mp.weixin.qq.com/s/RSn9CUKn1P59wNn29Nravw)|完成|
 |03|[/BaseCoreVueProject/Adnc](https://github.com/BaseCoreVueProject/Adnc)|AlphaYu|[文章](https://mp.weixin.qq.com/s/aeiwnF4xNROlE20oxD6bTA)|完成|
-|04|[/BaseCoreVueProject/Remember.Core](https://github.com/BaseCoreVueProject/Remember.Core)|yiyungent|[文章](https://mp.weixin.qq.com/s/6s6XD0CXPkfIsU3tcYRKIg)|完成|
-|05|[/BaseCoreVueProject/SnailAspNetCoreFramework](https://github.com/BaseCoreVueProject/SnailAspNetCoreFramework)|shengyu-kmust|待发布||
-|06|[/BaseCoreVueProject/Easy.Core.Flow](https://github.com/BaseCoreVueProject/Easy.Core.Flow)|MrChuJiu|-|文档不太完整|
-|07|[/BaseCoreVueProject/PermissionVue](https://github.com/BaseCoreVueProject/PermissionVue)|zt199510|待发布||
-|08|[/BaseCoreVueProject/jwtdemo](https://github.com/BaseCoreVueProject/jwtdemo)|HuYiDaoKing|-|需要完善文档|
-|09|[/BaseCoreVueProject/Zero.Core](https://github.com/BaseCoreVueProject/Zero.Core)|QQ2287991080|待发布||
-|10|[/BaseCoreVueProject/SimCaptcha](https://github.com/BaseCoreVueProject/SimCaptcha)|yiyungent|待发布||
-|11|[/BaseCoreVueProject/InitQ ](https://github.com/BaseCoreVueProject/InitQ)|wmowm|待发布||
-|12|[/BaseCoreVueProject/LJS.Core](https://github.com/BaseCoreVueProject/LJS.Core)|Lenceas|待发布|希望再美化下文档|
+|04|[/BaseCoreVueProject/Remember.Core](https://github.com/BaseCoreVueProject/Remember.Core)|SmartforXiaoYuan|[文章](https://mp.weixin.qq.com/s/RQChtmDiWbB0Crz5f1IFXQ)|完成|
+|05|[/BaseCoreVueProject/QuartzCore.Blazor](https://github.com/BaseCoreVueProject/QuartzCore.Blazor)|yiyungent|[文章](https://mp.weixin.qq.com/s/6s6XD0CXPkfIsU3tcYRKIg)|完成|
+|06|[/BaseCoreVueProject/SnailAspNetCoreFramework](https://github.com/BaseCoreVueProject/SnailAspNetCoreFramework)|shengyu-kmust|待发布||
+|07|[/BaseCoreVueProject/Easy.Core.Flow](https://github.com/BaseCoreVueProject/Easy.Core.Flow)|MrChuJiu|-|文档不太完整|
+|08|[/BaseCoreVueProject/PermissionVue](https://github.com/BaseCoreVueProject/PermissionVue)|zt199510|待发布||
+|09|[/BaseCoreVueProject/jwtdemo](https://github.com/BaseCoreVueProject/jwtdemo)|HuYiDaoKing|-|需要完善文档|
+|10|[/BaseCoreVueProject/Zero.Core](https://github.com/BaseCoreVueProject/Zero.Core)|QQ2287991080|待发布||
+|11|[/BaseCoreVueProject/SimCaptcha](https://github.com/BaseCoreVueProject/SimCaptcha)|yiyungent|待发布||
+|12|[/BaseCoreVueProject/InitQ ](https://github.com/BaseCoreVueProject/InitQ)|wmowm|待发布||
+|13|[/BaseCoreVueProject/LJS.Core](https://github.com/BaseCoreVueProject/LJS.Core)|Lenceas|待发布|希望再美化下文档|
